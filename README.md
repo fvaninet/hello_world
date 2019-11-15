@@ -1,2 +1,3 @@
 # hello_world
-first exercize on GITHUB
+first exercise on GITHUB
+I edited a typo in the description
